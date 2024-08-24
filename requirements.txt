@@ -1,0 +1,7 @@
+langchain-community
+langchain-ollama
+ youtube-transcript-api 
+ faiss-cpu 
+ tiktoken 
+ pytube 
+ streamlit
